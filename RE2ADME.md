@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enos2" alt="enos2" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [enos-omenda.web.app/](https://enos-omenda.web.app/)
+- 👨‍💻 All of my projects are available at [enos-omenda.web.app](https://enos-omenda.web.app/)
 
 - 💬 Ask me about **HTML, CSS & Python**
 
