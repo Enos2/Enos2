@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cyber security**
 
-- 👨‍💻 All of my projects are available at [enos-omenda.web.app](enos-omenda.web.app)
+- 👨‍💻 All of my projects are available at [https://enos-omenda.web.app/](https://enos-omenda.web.app/)
 
 - 💬 Ask me about **HTML, CSS & Python**
 
