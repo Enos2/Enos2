@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Enos Omenda</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate Software developer from Kenya</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enos2" alt="enos2" /></a> </p>
 
-- 🔭 I’m currently working on **Python streaming website**
+- 🔭 I’m currently working on **Leravel Systems**
 
 - 🌱 I’m currently learning **Cyber security**
 
 - 👨‍💻 All of my projects are available at [https://enos-omenda.web.app/](https://enos-omenda.web.app/)
 
-- 💬 Ask me about **HTML, CSS & Python**
+- 💬 Ask me about **HTML, CSS, Python & Leravel**
 
 - 📫 How to reach me **enosomenda1@gmail.com**
 
